@@ -46,7 +46,7 @@ var means = [
 	"Machine",
 	"Mad Dog",
 	"Match",
-	
+];	
 var evidence = [
 	"Air Conditioning",
 	"Ants",
