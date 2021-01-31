@@ -18,6 +18,7 @@ var means = [
 	"Chemicals",
 	"Cleaver",
 	"Crutch",
+	"Daddy's Cummies",
 	"Dagger",
 	"Dirty Water",
 	"Dismember",
