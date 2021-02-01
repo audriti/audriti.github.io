@@ -69,6 +69,7 @@ var means = [
 	"Scarf",
 	"Scissors",
 	"Sculpture",
+	"Shoe",
 	"Smoke",
 	"Sniper",
 	"Starvation",
